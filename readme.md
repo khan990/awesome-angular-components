@@ -501,6 +501,7 @@
 
 *Cookie manipulation*
 
+ - [ngx-cookie-service](https://github.com/7leads/ngx-cookie-service) - An (AOT ready) Angular (4+) service for cookies. Originally based on the ng2-cookies library.
  - [angular2-cookie](https://github.com/salemdar/angular2-cookie) - Implementation of Angular 1.x $cookies service to Angular 2.
 
 ###### Routing
